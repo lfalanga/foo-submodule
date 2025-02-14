@@ -1,2 +1,2 @@
 # foo-submodule
-Foo git repository submodule for testing.
+Foo git repository submodule for testing purposes.
